@@ -1,1 +1,1 @@
-"# Mongo/Meteor Starter App" 
+# Mongo/Meteor Starter App
